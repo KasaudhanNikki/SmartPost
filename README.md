@@ -13,7 +13,7 @@ A beauty consultant social-commerce app with an AI-powered smart feed. Browse po
 
 ### Install & Run
 ```bash
-git clone <repo-url>
+git clone https://github.com/KasaudhanNikki/SmartPost.git
 cd smartpost
 flutter pub get
 flutter run
